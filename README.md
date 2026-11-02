@@ -1,4 +1,4 @@
-# Alto-Shaam Master Label System (backend)
+# Alto-Shaam Master Label System (Backend)
 
 Spring Boot 3.5 / Java 21 / PostgreSQL. Generates B-10 Master Labels (6 x 4 in, two per A4 page) as PDF.
 
