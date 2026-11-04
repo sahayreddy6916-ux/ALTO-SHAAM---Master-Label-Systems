@@ -1,0 +1,7 @@
+target/
+bin/
+data/generated/
+.settings/
+.project
+.classpath
+*.log
